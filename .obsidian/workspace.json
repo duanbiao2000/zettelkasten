@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/why_linux_sucks.md",
+                "file": "music/vocal/vocalization.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "why_linux_sucks"
+              "title": "vocalization"
             }
           }
         ]
@@ -104,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/why_linux_sucks.md",
+                "file": "music/vocal/vocalization.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of why_linux_sucks"
+              "title": "Outline of vocalization"
             }
           }
         ]
@@ -190,12 +190,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/why_linux_sucks.md",
+                "file": "music/vocal/vocalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from why_linux_sucks"
+              "title": "Outgoing links from vocalization"
             }
           },
           {
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/why_linux_sucks.md",
+                "file": "music/vocal/vocalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +261,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for why_linux_sucks"
+              "title": "Backlinks for vocalization"
             }
           }
         ],
@@ -289,6 +289,8 @@
   },
   "active": "c06d504145e806fb",
   "lastOpenFiles": [
+    "muay_thai/learning_muay_thai.md",
+    "linux/why_linux_sucks.md",
     "linux/how_to_run_appimage.md",
     "linux/appimage.md",
     "lifestyle/work.md",
@@ -313,9 +315,7 @@
     "houdini/houdini_chop_node.md",
     "houdini/algorithmic_design_with_houdini.md",
     "houdini/20230501_FX_특강.md",
-    "history/history_with_shelby.md",
     "attachments/Geologic_Clock_with_events_and_periods.svg",
-    "goals/goals.md",
     "attachments/spiderman_comic_style.gif",
     "attachments/houdini/hfoundations19_5_05_destructionfx.pdf",
     "attachments/Pasted image 20260111115947.png",
