@@ -15,13 +15,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "computer_graphics/onetab_exports.md",
+                    "file": "computer_graphics/spiderman_into_the_spider_verse.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "onetab_exports"
+                  "title": "spiderman_into_the_spider_verse"
                 }
               }
             ]
@@ -106,13 +106,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "computer_graphics/onetab_exports.md",
+                    "file": "computer_graphics/spiderman_into_the_spider_verse.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of onetab_exports"
+                  "title": "Outline of spiderman_into_the_spider_verse"
                 }
               }
             ]
@@ -192,12 +192,12 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "computer_graphics/onetab_exports.md",
+                    "file": "computer_graphics/spiderman_into_the_spider_verse.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-going-out",
-                  "title": "Outgoing links from onetab_exports"
+                  "title": "Outgoing links from spiderman_into_the_spider_verse"
                 }
               },
               {
@@ -253,7 +253,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "computer_graphics/onetab_exports.md",
+                    "file": "computer_graphics/spiderman_into_the_spider_verse.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for onetab_exports"
+                  "title": "Backlinks for spiderman_into_the_spider_verse"
                 }
               }
             ],
@@ -289,15 +289,19 @@
           "workspaces-plus:Manage workspaces": false
         }
       },
-      "active": "19ce5a4d65676126",
-      "mtime": "2026-01-14T16:03:24+08:00",
+      "active": "c06d504145e806fb",
+      "mtime": "2026-01-14T16:07:06+08:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
+          "attachments",
+          "attachments/houdini",
+          "biology",
           "careers/companies",
           "careers/companies/Disney",
           "careers/companies/ILMxLAB",
           "careers/graphic_programmer",
           "careers/technical_artist",
+          "computer_graphics",
           "economy",
           "ideas"
         ]
