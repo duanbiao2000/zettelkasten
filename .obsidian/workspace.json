@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "music/vocal/vocalization.md",
+                "file": "philosophy/levels_of_wizardry.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "vocalization"
+              "title": "levels_of_wizardry"
             }
           }
         ]
@@ -104,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "music/vocal/vocalization.md",
+                "file": "philosophy/levels_of_wizardry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of vocalization"
+              "title": "Outline of levels_of_wizardry"
             }
           }
         ]
@@ -190,12 +190,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "music/vocal/vocalization.md",
+                "file": "philosophy/levels_of_wizardry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from vocalization"
+              "title": "Outgoing links from levels_of_wizardry"
             }
           },
           {
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "music/vocal/vocalization.md",
+                "file": "philosophy/levels_of_wizardry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +261,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for vocalization"
+              "title": "Backlinks for levels_of_wizardry"
             }
           }
         ],
@@ -289,6 +289,9 @@
   },
   "active": "c06d504145e806fb",
   "lastOpenFiles": [
+    "people/niklas_luhmann.md",
+    "people/gyedo_jeon.md",
+    "music/vocal/vocalization.md",
     "muay_thai/learning_muay_thai.md",
     "linux/why_linux_sucks.md",
     "linux/how_to_run_appimage.md",
@@ -312,9 +315,6 @@
     "ideas/cg_programmer_portfolio.md",
     "houdini/houdini_dop_node.md",
     "houdini/houdini_cop_node.md",
-    "houdini/houdini_chop_node.md",
-    "houdini/algorithmic_design_with_houdini.md",
-    "houdini/20230501_FX_특강.md",
     "attachments/Geologic_Clock_with_events_and_periods.svg",
     "attachments/spiderman_comic_style.gif",
     "attachments/houdini/hfoundations19_5_05_destructionfx.pdf",

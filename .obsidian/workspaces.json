@@ -15,13 +15,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "music/vocal/vocalization.md",
+                    "file": "philosophy/levels_of_wizardry.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "vocalization"
+                  "title": "levels_of_wizardry"
                 }
               }
             ]
@@ -106,13 +106,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "music/vocal/vocalization.md",
+                    "file": "philosophy/levels_of_wizardry.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of vocalization"
+                  "title": "Outline of levels_of_wizardry"
                 }
               }
             ]
@@ -192,12 +192,12 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "music/vocal/vocalization.md",
+                    "file": "philosophy/levels_of_wizardry.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-going-out",
-                  "title": "Outgoing links from vocalization"
+                  "title": "Outgoing links from levels_of_wizardry"
                 }
               },
               {
@@ -253,7 +253,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "music/vocal/vocalization.md",
+                    "file": "philosophy/levels_of_wizardry.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for vocalization"
+                  "title": "Backlinks for levels_of_wizardry"
                 }
               }
             ],
@@ -290,7 +290,7 @@
         }
       },
       "active": "c06d504145e806fb",
-      "mtime": "2026-01-14T23:06:28+08:00",
+      "mtime": "2026-01-14T23:07:54+08:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "english",
@@ -312,7 +312,9 @@
           "math",
           "muay_thai",
           "music",
-          "music/vocal"
+          "music/vocal",
+          "people",
+          "philosophy"
         ]
       }
     },
