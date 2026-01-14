@@ -1,6 +1,10 @@
 ---
-aliases: [C# Beginner Learning Plan]
-tags: [C#, programming, study, plan]
+aliases:
+  - C# Beginner Learning Plan
+tags:
+  - programming
+  - study
+  - plan
 status: ongoing
 created: 2023-01-25
 edited: 2023-01-31
