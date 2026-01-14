@@ -37,5 +37,6 @@
   "obsidian-prism-theme@@pt-fixed-status-bar-align": "pt-fixed-status-bar-align-center",
   "obsidian-prism-theme@@pt-file-explorer-folder-icon": false,
   "obsidian-prism-theme@@pt-colored-folders": true,
-  "obsidian-prism-theme@@pt-colored-folders-files-match": true
+  "obsidian-prism-theme@@pt-colored-folders-files-match": true,
+  "obsidian-prism-theme@@color-schemes-lt": "pt-color-scheme-swan-lt"
 }
