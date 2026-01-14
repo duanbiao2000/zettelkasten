@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy/levels_of_wizardry.md",
+                "file": "psychology/aesthetic_usability_effect.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "levels_of_wizardry"
+              "title": "aesthetic_usability_effect"
             }
           }
         ]
@@ -104,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "philosophy/levels_of_wizardry.md",
+                "file": "psychology/aesthetic_usability_effect.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of levels_of_wizardry"
+              "title": "Outline of aesthetic_usability_effect"
             }
           }
         ]
@@ -190,12 +190,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "philosophy/levels_of_wizardry.md",
+                "file": "psychology/aesthetic_usability_effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from levels_of_wizardry"
+              "title": "Outgoing links from aesthetic_usability_effect"
             }
           },
           {
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "philosophy/levels_of_wizardry.md",
+                "file": "psychology/aesthetic_usability_effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +261,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for levels_of_wizardry"
+              "title": "Backlinks for aesthetic_usability_effect"
             }
           }
         ],
@@ -289,6 +289,7 @@
   },
   "active": "c06d504145e806fb",
   "lastOpenFiles": [
+    "philosophy/levels_of_wizardry.md",
     "people/niklas_luhmann.md",
     "people/gyedo_jeon.md",
     "music/vocal/vocalization.md",
@@ -314,7 +315,6 @@
     "ideas/computer_graphics_ideas.md",
     "ideas/cg_programmer_portfolio.md",
     "houdini/houdini_dop_node.md",
-    "houdini/houdini_cop_node.md",
     "attachments/Geologic_Clock_with_events_and_periods.svg",
     "attachments/spiderman_comic_style.gif",
     "attachments/houdini/hfoundations19_5_05_destructionfx.pdf",
