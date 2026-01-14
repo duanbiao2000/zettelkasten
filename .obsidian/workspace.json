@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "goals/goals.md",
+                "file": "history/history_with_shelby.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "goals"
+              "title": "history_with_shelby"
             }
           }
         ]
@@ -104,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "goals/goals.md",
+                "file": "history/history_with_shelby.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of goals"
+              "title": "Outline of history_with_shelby"
             }
           }
         ]
@@ -190,12 +190,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "goals/goals.md",
+                "file": "history/history_with_shelby.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from goals"
+              "title": "Outgoing links from history_with_shelby"
             }
           },
           {
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "goals/goals.md",
+                "file": "history/history_with_shelby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +261,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for goals"
+              "title": "Backlinks for history_with_shelby"
             }
           }
         ],
@@ -289,10 +289,13 @@
   },
   "active": "c06d504145e806fb",
   "lastOpenFiles": [
-    "goals/goal_take_notes.md",
-    "goals/goal_master_in_cs.md",
-    "goals/goal_get_sqld.md",
+    "attachments/Geologic_Clock_with_events_and_periods.svg",
+    "history/history_with_shelby.md",
+    "goals/goals.md",
     "goals/goal_get_an_it_certification.md",
+    "goals/goal_get_sqld.md",
+    "goals/goal_master_in_cs.md",
+    "goals/goal_take_notes.md",
     "goals/goal_bachelor_in_cs.md",
     "english/dictionary/portmanteau.md",
     "english/dictionary/draconian.md",
@@ -314,9 +317,6 @@
     "math/precalculus/Chapter 2/2_Graphs_of_Functions.md",
     "math/precalculus/Chapter 1/1_Real_Numbers.md",
     "ideas/obsidian_improvements.md",
-    "ideas/computer_graphics_ideas.md",
-    "ideas/cg_programmer_portfolio.md",
-    "careers/graphic_programmer/software_engineer_for_dreamworks_1.md",
     "attachments/Pasted image 20260111115947.png",
     "attachments/Pasted image 20260111115425.png",
     "attachments/Pasted image 20260111115024.png",
