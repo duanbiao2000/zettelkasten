@@ -15,13 +15,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "history/history_with_shelby.md",
+                    "file": "lifestyle/health/facts_about_plank.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "history_with_shelby"
+                  "title": "facts_about_plank"
                 }
               }
             ]
@@ -106,13 +106,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "history/history_with_shelby.md",
+                    "file": "lifestyle/health/facts_about_plank.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of history_with_shelby"
+                  "title": "Outline of facts_about_plank"
                 }
               }
             ]
@@ -192,12 +192,12 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "history/history_with_shelby.md",
+                    "file": "lifestyle/health/facts_about_plank.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-going-out",
-                  "title": "Outgoing links from history_with_shelby"
+                  "title": "Outgoing links from facts_about_plank"
                 }
               },
               {
@@ -253,7 +253,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "history/history_with_shelby.md",
+                    "file": "lifestyle/health/facts_about_plank.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for history_with_shelby"
+                  "title": "Backlinks for facts_about_plank"
                 }
               }
             ],
@@ -290,7 +290,7 @@
         }
       },
       "active": "c06d504145e806fb",
-      "mtime": "2026-01-14T16:33:15+08:00",
+      "mtime": "2026-01-14T16:41:50+08:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "english",
@@ -300,7 +300,12 @@
           "english/slangs",
           "game_dev",
           "goals",
-          "history"
+          "history",
+          "ideas",
+          "KNOU",
+          "KNOU/2021년_방통대",
+          "lifestyle",
+          "lifestyle/health"
         ]
       }
     },
