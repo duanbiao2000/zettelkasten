@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lifestyle/health/facts_about_plank.md",
+                "file": "lifestyle/proficiencies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "facts_about_plank"
+              "title": "proficiencies"
             }
           }
         ]
@@ -104,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lifestyle/health/facts_about_plank.md",
+                "file": "lifestyle/proficiencies.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of facts_about_plank"
+              "title": "Outline of proficiencies"
             }
           }
         ]
@@ -190,12 +190,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lifestyle/health/facts_about_plank.md",
+                "file": "lifestyle/proficiencies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from facts_about_plank"
+              "title": "Outgoing links from proficiencies"
             }
           },
           {
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lifestyle/health/facts_about_plank.md",
+                "file": "lifestyle/proficiencies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +261,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for facts_about_plank"
+              "title": "Backlinks for proficiencies"
             }
           }
         ],
@@ -289,6 +289,12 @@
   },
   "active": "c06d504145e806fb",
   "lastOpenFiles": [
+    "lifestyle/interests.md",
+    "lifestyle/hobbies.md",
+    "lifestyle/central_node.md",
+    "lifestyle/products/sound_bar.md",
+    "lifestyle/health/health.md",
+    "lifestyle/health/facts_about_plank.md",
     "KNOU/2021년_방통대/컴퓨터과학과_계획_21s2.md",
     "ideas/personal_blog_ideas.md",
     "ideas/obsidian_improvements.md",
@@ -312,12 +318,6 @@
     "computer_graphics/spiderman_into_the_spider_verse.md",
     "attachments/spiderman_comic_style.gif",
     "attachments/houdini/hfoundations19_5_05_destructionfx.pdf",
-    "computer_graphics/onetab_exports.md",
-    "computer_graphics/material_study.md",
-    "cinematography/cinematic_techniques.md",
-    "lifestyle/central_node.md",
-    "computer_graphics/MBC_강의_노트/Cinema4D/c4d_20230412.md",
-    "english/idioms/blessing_in_disguise.md",
     "attachments/Pasted image 20260111115947.png",
     "attachments/Pasted image 20260111115425.png",
     "attachments/Pasted image 20260111115024.png",

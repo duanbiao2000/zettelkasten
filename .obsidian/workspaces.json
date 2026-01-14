@@ -15,13 +15,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "lifestyle/health/facts_about_plank.md",
+                    "file": "lifestyle/proficiencies.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "facts_about_plank"
+                  "title": "proficiencies"
                 }
               }
             ]
@@ -106,13 +106,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "lifestyle/health/facts_about_plank.md",
+                    "file": "lifestyle/proficiencies.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of facts_about_plank"
+                  "title": "Outline of proficiencies"
                 }
               }
             ]
@@ -192,12 +192,12 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "lifestyle/health/facts_about_plank.md",
+                    "file": "lifestyle/proficiencies.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-going-out",
-                  "title": "Outgoing links from facts_about_plank"
+                  "title": "Outgoing links from proficiencies"
                 }
               },
               {
@@ -253,7 +253,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "lifestyle/health/facts_about_plank.md",
+                    "file": "lifestyle/proficiencies.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for facts_about_plank"
+                  "title": "Backlinks for proficiencies"
                 }
               }
             ],
@@ -290,7 +290,7 @@
         }
       },
       "active": "c06d504145e806fb",
-      "mtime": "2026-01-14T16:41:50+08:00",
+      "mtime": "2026-01-14T16:47:36+08:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "english",
@@ -305,7 +305,8 @@
           "KNOU",
           "KNOU/2021년_방통대",
           "lifestyle",
-          "lifestyle/health"
+          "lifestyle/health",
+          "lifestyle/products"
         ]
       }
     },
