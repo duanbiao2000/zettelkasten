@@ -100,13 +100,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chemistry/material_and_light.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of material_and_light"
+              "title": "Outline"
             }
           }
         ]
@@ -129,8 +128,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -213,9 +212,19 @@
               "icon": "sigma",
               "title": "Mathpad"
             }
+          },
+          {
+            "id": "fbe426754143f55f",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {},
+              "icon": "sigma",
+              "title": "Mathpad"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "baddb2b819dd740a",
@@ -237,7 +246,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer_graphics/3D_Modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +255,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3D_Modeling"
+              "title": "Backlinks"
             }
           }
         ],
@@ -255,12 +263,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5,
-    "collapsed": true
+    "width": 470.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -270,16 +276,17 @@
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
       "mathpad:Open Mathpad": false,
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "c06d504145e806fb",
+  "active": "2a292a21980dd16c",
   "lastOpenFiles": [
+    "chemistry/material_and_light.md",
     "attachments/Pasted image 20260111115947.png",
     "attachments/Pasted image 20260111115425.png",
     "attachments/Pasted image 20260111115024.png",
-    "chemistry/material_and_light.md",
     "chemistry",
     "math/precalculus/Chapter 6/1_Angle_Measure.md",
     "attachments/Pasted image 20260110153448.png",
@@ -309,7 +316,6 @@
     "attachments/Pasted image 20260108232652.png",
     "math/precalculus/Chapter 5/3_Trigonometric_Graphs.md",
     "math/precalculus/Chapter 5/2_Trigonometric_Functions_of_Real_Numbers.md",
-    "attachments/Pasted image 20260108171123.png",
     "math/precalculus/Chapter 5/5_Inverse_Trigonometric_Functions_and_Their_Graphs.md",
     "attachments/Trigonometric_functions_derivation_animation.svg.opdownload",
     "math/precalculus/Chapter 5/1_The_Unit_Circle.md",
