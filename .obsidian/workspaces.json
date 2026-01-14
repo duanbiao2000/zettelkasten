@@ -231,7 +231,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           },
           {
             "id": "baddb2b819dd740a",
@@ -289,8 +289,8 @@
           "workspaces-plus:Manage workspaces": false
         }
       },
-      "active": "c06d504145e806fb",
-      "mtime": "2026-01-14T16:47:36+08:00",
+      "active": "227e6011dc684b16",
+      "mtime": "2026-01-14T22:04:36+08:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "english",
