@@ -15,13 +15,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "psychology/aesthetic_usability_effect.md",
+                    "file": "todo/general_todos.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "aesthetic_usability_effect"
+                  "title": "general_todos"
                 }
               }
             ]
@@ -106,13 +106,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "psychology/aesthetic_usability_effect.md",
+                    "file": "todo/general_todos.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of aesthetic_usability_effect"
+                  "title": "Outline of general_todos"
                 }
               }
             ]
@@ -253,7 +253,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "psychology/aesthetic_usability_effect.md",
+                    "file": "todo/general_todos.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for aesthetic_usability_effect"
+                  "title": "Backlinks for general_todos"
                 }
               }
             ],
@@ -291,7 +291,7 @@
         }
       },
       "active": "c06d504145e806fb",
-      "mtime": "2026-01-15T11:38:07+08:00",
+      "mtime": "2026-01-15T11:40:53+08:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "english",
@@ -317,7 +317,10 @@
           "music/vocal",
           "people",
           "philosophy",
-          "psychology"
+          "psychology",
+          "statistics",
+          "templates",
+          "todo"
         ]
       }
     },

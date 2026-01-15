@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychology/aesthetic_usability_effect.md",
+                "file": "todo/general_todos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "aesthetic_usability_effect"
+              "title": "general_todos"
             }
           }
         ]
@@ -104,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychology/aesthetic_usability_effect.md",
+                "file": "todo/general_todos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of aesthetic_usability_effect"
+              "title": "Outline of general_todos"
             }
           }
         ]
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychology/aesthetic_usability_effect.md",
+                "file": "todo/general_todos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +261,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for aesthetic_usability_effect"
+              "title": "Backlinks for general_todos"
             }
           }
         ],
@@ -290,11 +290,16 @@
   },
   "active": "c06d504145e806fb",
   "lastOpenFiles": [
+    "templates/book.md",
+    "templates/basic.md",
+    "psychology/fitts_law.md",
+    "psychology/hicks_law.md",
+    "psychology/doherty_threshold.md",
+    "psychology/aesthetic_usability_effect.md",
     "philosophy/levels_of_wizardry.md",
     "people/niklas_luhmann.md",
     "people/gyedo_jeon.md",
     "math/fun_facts/discovery_by_math.md",
-    "psychology/aesthetic_usability_effect.md",
     "music/vocal/vocalization.md",
     "muay_thai/learning_muay_thai.md",
     "linux/why_linux_sucks.md",
@@ -311,11 +316,6 @@
     "lifestyle/proficiencies.md",
     "lifestyle/products/sound_bar.md",
     "lifestyle/health/health.md",
-    "lifestyle/health/facts_about_plank.md",
-    "KNOU/2021년_방통대/컴퓨터과학과_계획_21s2.md",
-    "ideas/personal_blog_ideas.md",
-    "ideas/obsidian_improvements.md",
-    "ideas/computer_graphics_ideas.md",
     "attachments/Geologic_Clock_with_events_and_periods.svg",
     "attachments/spiderman_comic_style.gif",
     "attachments/houdini/hfoundations19_5_05_destructionfx.pdf",
