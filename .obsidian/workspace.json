@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo/general_todos.md",
+                "file": "todo/how_to_todo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "general_todos"
+              "title": "how_to_todo"
             }
           }
         ]
@@ -104,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todo/general_todos.md",
+                "file": "todo/how_to_todo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of general_todos"
+              "title": "Outline of how_to_todo"
             }
           }
         ]
@@ -153,9 +153,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "study_LearnCpp_GettingStarted.md",
+                "file": "todo/how_to_todo.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -176,12 +176,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.42967809143425173,
+                  "scale": 0.8445563703048158,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of study_LearnCpp_GettingStarted"
+              "title": "Graph of how_to_todo"
             }
           },
           {
@@ -227,9 +227,19 @@
               "icon": "sigma",
               "title": "Mathpad"
             }
+          },
+          {
+            "id": "9f2b31de1e8db1b2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "baddb2b819dd740a",
@@ -251,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo/general_todos.md",
+                "file": "todo/how_to_todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +271,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for general_todos"
+              "title": "Backlinks for how_to_todo"
             }
           }
         ],
@@ -269,8 +279,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5,
-    "collapsed": true
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,6 +299,7 @@
   },
   "active": "c06d504145e806fb",
   "lastOpenFiles": [
+    "todo/general_todos.md",
     "templates/book.md",
     "templates/basic.md",
     "psychology/fitts_law.md",
@@ -315,7 +325,6 @@
     "game_dev/game_dev_notes.md",
     "lifestyle/proficiencies.md",
     "lifestyle/products/sound_bar.md",
-    "lifestyle/health/health.md",
     "attachments/Geologic_Clock_with_events_and_periods.svg",
     "attachments/spiderman_comic_style.gif",
     "attachments/houdini/hfoundations19_5_05_destructionfx.pdf",
