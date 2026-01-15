@@ -7,7 +7,7 @@ ChatGPT conversation on 2025/12/12
 Yes — and it has happened **multiple times** in the history of science. Mathematics has not only _described_ known phenomena, but has actually **predicted the existence of hidden things** in the real world before anybody observed them. Here are the most famous and important examples.
 
 
-$$$$
+$$\$$
 
 
 ---
