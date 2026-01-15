@@ -15,13 +15,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "psychology/aesthetic_usability_effect.md",
+                    "file": "math/fun_facts/discovery_by_math.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "aesthetic_usability_effect"
+                  "title": "discovery_by_math"
                 }
               }
             ]
@@ -106,13 +106,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "psychology/aesthetic_usability_effect.md",
+                    "file": "math/fun_facts/discovery_by_math.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of aesthetic_usability_effect"
+                  "title": "Outline of discovery_by_math"
                 }
               }
             ]
@@ -253,7 +253,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "psychology/aesthetic_usability_effect.md",
+                    "file": "math/fun_facts/discovery_by_math.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for aesthetic_usability_effect"
+                  "title": "Backlinks for discovery_by_math"
                 }
               }
             ],
@@ -290,7 +290,7 @@
         }
       },
       "active": "227e6011dc684b16",
-      "mtime": "2026-01-15T10:39:12+08:00",
+      "mtime": "2026-01-15T10:39:46+08:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "english",
@@ -310,6 +310,7 @@
           "lifestyle/school",
           "linux",
           "math",
+          "math/fun_facts",
           "muay_thai",
           "music",
           "music/vocal",
