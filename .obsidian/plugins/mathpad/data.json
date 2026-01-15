@@ -16,5 +16,5 @@
   "plotWidth": 0,
   "plotDerivatives": false,
   "precision": 21,
-  "scientific": false
+  "scientific": true
 }
