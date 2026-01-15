@@ -15,13 +15,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "todo/todo_zettelkasten_guide.md",
+                    "file": "tools/obsidian/obsidian_vault_shortcut.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "todo_zettelkasten_guide"
+                  "title": "obsidian_vault_shortcut"
                 }
               }
             ]
@@ -106,13 +106,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "todo/todo_zettelkasten_guide.md",
+                    "file": "tools/obsidian/obsidian_vault_shortcut.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of todo_zettelkasten_guide"
+                  "title": "Outline of obsidian_vault_shortcut"
                 }
               }
             ]
@@ -155,7 +155,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "todo/todo_zettelkasten_guide.md",
+                    "file": "tools/obsidian/obsidian_vault_shortcut.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -178,12 +178,12 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.8445563703048158,
+                      "scale": 0.602401335739898,
                       "close": true
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of todo_zettelkasten_guide"
+                  "title": "Graph of obsidian_vault_shortcut"
                 }
               },
               {
@@ -263,7 +263,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "todo/todo_zettelkasten_guide.md",
+                    "file": "tools/obsidian/obsidian_vault_shortcut.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for todo_zettelkasten_guide"
+                  "title": "Backlinks for obsidian_vault_shortcut"
                 }
               }
             ],
@@ -281,7 +281,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 352.5
+        "width": 352.5,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -300,7 +301,7 @@
         }
       },
       "active": "c06d504145e806fb",
-      "mtime": "2026-01-15T11:57:17+08:00",
+      "mtime": "2026-01-15T12:07:33+08:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "english",
@@ -329,7 +330,10 @@
           "psychology",
           "statistics",
           "templates",
-          "todo"
+          "todo",
+          "tools",
+          "tools/crm",
+          "tools/obsidian"
         ]
       }
     },
