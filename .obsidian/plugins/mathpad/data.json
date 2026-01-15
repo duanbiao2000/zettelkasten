@@ -14,7 +14,7 @@
   "hidePrefix": "%",
   "plotGrid": true,
   "plotWidth": 0,
-  "plotDerivatives": false,
+  "plotDerivatives": true,
   "precision": 21,
   "scientific": true
 }
