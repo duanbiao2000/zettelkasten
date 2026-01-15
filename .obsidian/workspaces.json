@@ -15,13 +15,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "math/fun_facts/discovery_by_math.md",
+                    "file": "philosophy/levels_of_wizardry.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "discovery_by_math"
+                  "title": "levels_of_wizardry"
                 }
               }
             ]
@@ -106,13 +106,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "math/fun_facts/discovery_by_math.md",
+                    "file": "philosophy/levels_of_wizardry.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of discovery_by_math"
+                  "title": "Outline of levels_of_wizardry"
                 }
               }
             ]
@@ -253,7 +253,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "math/fun_facts/discovery_by_math.md",
+                    "file": "philosophy/levels_of_wizardry.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for discovery_by_math"
+                  "title": "Backlinks for levels_of_wizardry"
                 }
               }
             ],
@@ -291,7 +291,7 @@
         }
       },
       "active": "c06d504145e806fb",
-      "mtime": "2026-01-15T11:05:35+08:00",
+      "mtime": "2026-01-15T11:17:43+08:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "english",

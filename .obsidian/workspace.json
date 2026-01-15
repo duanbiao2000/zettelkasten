@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/fun_facts/discovery_by_math.md",
+                "file": "philosophy/levels_of_wizardry.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "discovery_by_math"
+              "title": "levels_of_wizardry"
             }
           }
         ]
@@ -104,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math/fun_facts/discovery_by_math.md",
+                "file": "philosophy/levels_of_wizardry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of discovery_by_math"
+              "title": "Outline of levels_of_wizardry"
             }
           }
         ]
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math/fun_facts/discovery_by_math.md",
+                "file": "philosophy/levels_of_wizardry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +261,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for discovery_by_math"
+              "title": "Backlinks for levels_of_wizardry"
             }
           }
         ],
@@ -290,10 +290,11 @@
   },
   "active": "c06d504145e806fb",
   "lastOpenFiles": [
-    "psychology/aesthetic_usability_effect.md",
-    "philosophy/levels_of_wizardry.md",
     "people/niklas_luhmann.md",
     "people/gyedo_jeon.md",
+    "math/fun_facts/discovery_by_math.md",
+    "psychology/aesthetic_usability_effect.md",
+    "philosophy/levels_of_wizardry.md",
     "music/vocal/vocalization.md",
     "muay_thai/learning_muay_thai.md",
     "linux/why_linux_sucks.md",
@@ -315,7 +316,6 @@
     "ideas/personal_blog_ideas.md",
     "ideas/obsidian_improvements.md",
     "ideas/computer_graphics_ideas.md",
-    "ideas/cg_programmer_portfolio.md",
     "attachments/Geologic_Clock_with_events_and_periods.svg",
     "attachments/spiderman_comic_style.gif",
     "attachments/houdini/hfoundations19_5_05_destructionfx.pdf",
