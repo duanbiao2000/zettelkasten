@@ -15,13 +15,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "tools/obsidian/obsidian_vault_shortcut.md",
+                    "file": "tools/obsidian/plugin_obsidian_tabs.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "obsidian_vault_shortcut"
+                  "title": "plugin_obsidian_tabs"
                 }
               }
             ]
@@ -106,13 +106,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "tools/obsidian/obsidian_vault_shortcut.md",
+                    "file": "tools/obsidian/plugin_obsidian_tabs.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of obsidian_vault_shortcut"
+                  "title": "Outline of plugin_obsidian_tabs"
                 }
               }
             ]
@@ -155,7 +155,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "tools/obsidian/obsidian_vault_shortcut.md",
+                    "file": "tools/obsidian/plugin_obsidian_tabs.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -183,7 +183,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of obsidian_vault_shortcut"
+                  "title": "Graph of plugin_obsidian_tabs"
                 }
               },
               {
@@ -263,7 +263,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "tools/obsidian/obsidian_vault_shortcut.md",
+                    "file": "tools/obsidian/plugin_obsidian_tabs.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for obsidian_vault_shortcut"
+                  "title": "Backlinks for plugin_obsidian_tabs"
                 }
               }
             ],
@@ -301,7 +301,7 @@
         }
       },
       "active": "c06d504145e806fb",
-      "mtime": "2026-01-15T12:07:33+08:00",
+      "mtime": "2026-01-15T12:11:06+08:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "english",

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/obsidian/obsidian_vault_shortcut.md",
+                "file": "tools/obsidian/plugin_obsidian_tabs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "obsidian_vault_shortcut"
+              "title": "plugin_obsidian_tabs"
             }
           }
         ]
@@ -104,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/obsidian/obsidian_vault_shortcut.md",
+                "file": "tools/obsidian/plugin_obsidian_tabs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of obsidian_vault_shortcut"
+              "title": "Outline of plugin_obsidian_tabs"
             }
           }
         ]
@@ -153,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "tools/obsidian/obsidian_vault_shortcut.md",
+                "file": "tools/obsidian/plugin_obsidian_tabs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -181,7 +181,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of obsidian_vault_shortcut"
+              "title": "Graph of plugin_obsidian_tabs"
             }
           },
           {
@@ -261,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/obsidian/obsidian_vault_shortcut.md",
+                "file": "tools/obsidian/plugin_obsidian_tabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for obsidian_vault_shortcut"
+              "title": "Backlinks for plugin_obsidian_tabs"
             }
           }
         ],
@@ -300,6 +300,7 @@
   },
   "active": "c06d504145e806fb",
   "lastOpenFiles": [
+    "tools/obsidian/obsidian_vault_shortcut.md",
     "tools/obsidian/how_to_embed_files.md",
     "tools/crm/what_is_crm.md",
     "todo/todo_zettelkasten_guide.md",
@@ -325,7 +326,6 @@
     "muay_thai/learning_muay_thai.md",
     "linux/why_linux_sucks.md",
     "linux/how_to_run_appimage.md",
-    "linux/appimage.md",
     "attachments/Geologic_Clock_with_events_and_periods.svg",
     "attachments/spiderman_comic_style.gif",
     "attachments/houdini/hfoundations19_5_05_destructionfx.pdf",
