@@ -15,13 +15,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "tools/obsidian/plugin_obsidian_tabs.md",
+                    "file": "zettelkasten/obsidian_features.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "plugin_obsidian_tabs"
+                  "title": "obsidian_features"
                 }
               }
             ]
@@ -106,13 +106,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "tools/obsidian/plugin_obsidian_tabs.md",
+                    "file": "zettelkasten/obsidian_features.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of plugin_obsidian_tabs"
+                  "title": "Outline of obsidian_features"
                 }
               }
             ]
@@ -155,7 +155,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "tools/obsidian/plugin_obsidian_tabs.md",
+                    "file": "zettelkasten/obsidian_features.md",
                     "options": {
                       "collapse-filter": false,
                       "search": "",
@@ -183,7 +183,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of plugin_obsidian_tabs"
+                  "title": "Graph of obsidian_features"
                 }
               },
               {
@@ -263,7 +263,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "tools/obsidian/plugin_obsidian_tabs.md",
+                    "file": "zettelkasten/obsidian_features.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for plugin_obsidian_tabs"
+                  "title": "Backlinks for obsidian_features"
                 }
               }
             ],
@@ -301,7 +301,7 @@
         }
       },
       "active": "c06d504145e806fb",
-      "mtime": "2026-01-15T12:11:06+08:00",
+      "mtime": "2026-01-15T12:15:09+08:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "english",
@@ -333,7 +333,14 @@
           "todo",
           "tools",
           "tools/crm",
-          "tools/obsidian"
+          "tools/obsidian",
+          "toouchdesigner",
+          "travel",
+          "unreal_engine",
+          "visualization",
+          "windows",
+          "wishlist",
+          "zettelkasten"
         ]
       }
     },

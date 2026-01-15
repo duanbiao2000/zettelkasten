@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/obsidian/plugin_obsidian_tabs.md",
+                "file": "zettelkasten/obsidian_features.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "plugin_obsidian_tabs"
+              "title": "obsidian_features"
             }
           }
         ]
@@ -104,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/obsidian/plugin_obsidian_tabs.md",
+                "file": "zettelkasten/obsidian_features.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of plugin_obsidian_tabs"
+              "title": "Outline of obsidian_features"
             }
           }
         ]
@@ -153,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "tools/obsidian/plugin_obsidian_tabs.md",
+                "file": "zettelkasten/obsidian_features.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -181,7 +181,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of plugin_obsidian_tabs"
+              "title": "Graph of obsidian_features"
             }
           },
           {
@@ -261,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/obsidian/plugin_obsidian_tabs.md",
+                "file": "zettelkasten/obsidian_features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for plugin_obsidian_tabs"
+              "title": "Backlinks for obsidian_features"
             }
           }
         ],
@@ -300,6 +300,11 @@
   },
   "active": "c06d504145e806fb",
   "lastOpenFiles": [
+    "wishlist/books.md",
+    "windows/windows_shortcuts.md",
+    "toouchdesigner/touchdesigner_learning_resources.md",
+    "tools/FFmpeg.md",
+    "tools/obsidian/plugin_obsidian_tabs.md",
     "tools/obsidian/obsidian_vault_shortcut.md",
     "tools/obsidian/how_to_embed_files.md",
     "tools/crm/what_is_crm.md",
@@ -321,11 +326,6 @@
     "philosophy/levels_of_wizardry.md",
     "people/niklas_luhmann.md",
     "people/gyedo_jeon.md",
-    "math/fun_facts/discovery_by_math.md",
-    "music/vocal/vocalization.md",
-    "muay_thai/learning_muay_thai.md",
-    "linux/why_linux_sucks.md",
-    "linux/how_to_run_appimage.md",
     "attachments/Geologic_Clock_with_events_and_periods.svg",
     "attachments/spiderman_comic_style.gif",
     "attachments/houdini/hfoundations19_5_05_destructionfx.pdf",
