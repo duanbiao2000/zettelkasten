@@ -15,13 +15,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "philosophy/levels_of_wizardry.md",
+                    "file": "psychology/aesthetic_usability_effect.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "levels_of_wizardry"
+                  "title": "aesthetic_usability_effect"
                 }
               }
             ]
@@ -106,13 +106,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "philosophy/levels_of_wizardry.md",
+                    "file": "psychology/aesthetic_usability_effect.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of levels_of_wizardry"
+                  "title": "Outline of aesthetic_usability_effect"
                 }
               }
             ]
@@ -253,7 +253,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "philosophy/levels_of_wizardry.md",
+                    "file": "psychology/aesthetic_usability_effect.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for levels_of_wizardry"
+                  "title": "Backlinks for aesthetic_usability_effect"
                 }
               }
             ],
@@ -291,7 +291,7 @@
         }
       },
       "active": "c06d504145e806fb",
-      "mtime": "2026-01-15T11:17:43+08:00",
+      "mtime": "2026-01-15T11:38:07+08:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "english",

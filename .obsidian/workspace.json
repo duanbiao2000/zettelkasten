@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy/levels_of_wizardry.md",
+                "file": "psychology/aesthetic_usability_effect.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "levels_of_wizardry"
+              "title": "aesthetic_usability_effect"
             }
           }
         ]
@@ -104,13 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "philosophy/levels_of_wizardry.md",
+                "file": "psychology/aesthetic_usability_effect.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of levels_of_wizardry"
+              "title": "Outline of aesthetic_usability_effect"
             }
           }
         ]
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "philosophy/levels_of_wizardry.md",
+                "file": "psychology/aesthetic_usability_effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +261,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for levels_of_wizardry"
+              "title": "Backlinks for aesthetic_usability_effect"
             }
           }
         ],
@@ -290,11 +290,11 @@
   },
   "active": "c06d504145e806fb",
   "lastOpenFiles": [
+    "philosophy/levels_of_wizardry.md",
     "people/niklas_luhmann.md",
     "people/gyedo_jeon.md",
     "math/fun_facts/discovery_by_math.md",
     "psychology/aesthetic_usability_effect.md",
-    "philosophy/levels_of_wizardry.md",
     "music/vocal/vocalization.md",
     "muay_thai/learning_muay_thai.md",
     "linux/why_linux_sucks.md",
